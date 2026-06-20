@@ -1,0 +1,6 @@
+{
+  "name": "Job Portal & Recruitment Platform",
+  "description": "An industry-oriented full stack job portal that connects job seekers and recruiters with streamlined hiring workflows, candidate profiling, resume management, and AI compatibility screening.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
